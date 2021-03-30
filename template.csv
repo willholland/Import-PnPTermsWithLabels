@@ -1,0 +1,4 @@
+termGroup,termSet,Name,LCID,Labels
+Foo,bar,Contoso,1033,CTSO
+Foo,bar,A.C.M.E,1033,ACME
+Foo,rab,ThreeWill,1033,TW;3W
