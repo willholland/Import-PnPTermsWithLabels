@@ -1,9 +1,9 @@
 [CmdletBinding()]
 PARAM(
-    #[Parameter(Mandatory=$true)]
-    [string]$TenantAdminUrl = "https://threewill-admin.sharepoint.com",
-    # [Parameter(Mandatory=$true)]
-    [string]$Path ="ThreeWillClients.csv"
+    [Parameter(Mandatory=$true)]
+    [string]$TenantAdminUrl
+    [Parameter(Mandatory=$true)]
+    [string]$Path
 )
 BEGIN{
 
